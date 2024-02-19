@@ -1,0 +1,14 @@
+C:\Users\danielcad01\Desktop\CADBATCH\project\c#demo\bin\Debug\net7.0\c#demo.exe
+C:\Users\danielcad01\Desktop\CADBATCH\project\c#demo\bin\Debug\net7.0\c#demo.deps.json
+C:\Users\danielcad01\Desktop\CADBATCH\project\c#demo\bin\Debug\net7.0\c#demo.runtimeconfig.json
+C:\Users\danielcad01\Desktop\CADBATCH\project\c#demo\bin\Debug\net7.0\c#demo.dll
+C:\Users\danielcad01\Desktop\CADBATCH\project\c#demo\bin\Debug\net7.0\c#demo.pdb
+C:\Users\danielcad01\Desktop\CADBATCH\project\c#demo\obj\Debug\net7.0\c#demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danielcad01\Desktop\CADBATCH\project\c#demo\obj\Debug\net7.0\c#demo.AssemblyInfoInputs.cache
+C:\Users\danielcad01\Desktop\CADBATCH\project\c#demo\obj\Debug\net7.0\c#demo.AssemblyInfo.cs
+C:\Users\danielcad01\Desktop\CADBATCH\project\c#demo\obj\Debug\net7.0\c#demo.csproj.CoreCompileInputs.cache
+C:\Users\danielcad01\Desktop\CADBATCH\project\c#demo\obj\Debug\net7.0\c#demo.dll
+C:\Users\danielcad01\Desktop\CADBATCH\project\c#demo\obj\Debug\net7.0\refint\c#demo.dll
+C:\Users\danielcad01\Desktop\CADBATCH\project\c#demo\obj\Debug\net7.0\c#demo.pdb
+C:\Users\danielcad01\Desktop\CADBATCH\project\c#demo\obj\Debug\net7.0\c#demo.genruntimeconfig.cache
+C:\Users\danielcad01\Desktop\CADBATCH\project\c#demo\obj\Debug\net7.0\ref\c#demo.dll
